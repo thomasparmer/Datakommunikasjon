@@ -1,2 +1,1 @@
-# Datakommunikasjon
-Kommunikasjonssystemer
+Grunnleggende innføring i sentrale funksjoner i kommunikasjonssystemer, herunder adressering, ruting, flytkontroll, feilhåndtering, pålitelighet og synkronisering. Det blir gitt eksempler på hvordan disse funksjonene anvendes i dagens kommunikasjonssystemer, og mer spesifikt hvordan disse anvendes innen ulike nettverksteknologier. Sentrale arkitekturer og protokoller gjennomgåes.
